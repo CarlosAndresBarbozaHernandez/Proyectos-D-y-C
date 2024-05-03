@@ -4,10 +4,7 @@
  */
 package ejercicio.pkg01;
 
-/**
- *
- * @author charlie
- */
+
 public class Ejercicio01 {
 
     

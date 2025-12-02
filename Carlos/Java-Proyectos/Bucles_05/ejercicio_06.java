@@ -1,0 +1,19 @@
+/**
+ * 5. Bucles
+ *
+ * 6. Muestra los numeros del 320 al 160, contando de 20 en 20 hacia atras utilizando un bucle
+ * do-while.
+ *
+ * @author Carlos Barboza
+ */
+public class ejercicio_06 {
+
+    public static void main(String[] args) {
+        int numero = 320;
+
+        do {
+            System.out.println(numero);
+            numero-=20;
+        } while (numero >= 160);
+    }
+}
